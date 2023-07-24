@@ -13,7 +13,6 @@
   <url>http://ros.org/wiki/ublox</url>
 
   <buildtool_depend>catkin</buildtool_depend>
-
   <depend>ublox_serialization</depend>
   <depend>ublox_msgs</depend>
   <depend>roscpp</depend>

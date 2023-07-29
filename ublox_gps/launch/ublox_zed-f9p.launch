@@ -8,6 +8,8 @@
   <arg name="respawn" value="true"/>
   <arg name="respawn_delay" value="30"/>
   <arg name="clear_params" value="false"/>
+
  </include>
+ <include file="$(find ntrip_client)/launch/ntrip_client.launch"/>
 </launch>
 
